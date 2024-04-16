@@ -1,0 +1,207 @@
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.dll.config
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.pdb
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.exe
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.exe.config
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.rsp
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.exe
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.exe.config
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.rsp
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.AppContext.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Console.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Net.Http.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.exe
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.exe.config
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.rsp
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.FileGeneration.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.Interfaces.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.System.Drawing.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.FileGeneration.pdb
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.AssemblyReference.cache
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.CoreCompileInputs.cache
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.CopyComplete
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.pdb
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Memory.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Numerics.Vectors.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\test\DOT NET PROJECT\DOT NET PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Buffers.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.dll.config
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.pdb
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.exe
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.rsp
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.exe
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.exe.config
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.rsp
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Console.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.exe
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.FileGeneration.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.Interfaces.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.System.Drawing.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Memory.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Numerics.Vectors.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Buffers.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.FileGeneration.pdb
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.AssemblyReference.cache
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.CopyComplete
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.dll
+C:\Users\Vidya Sagar Reddy P\Downloads\DOTNET SAMPLE PROJECT\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.pdb
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.dll.config
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.WebApp.pdb
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.exe
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.exe.config
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csc.rsp
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.exe
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.exe.config
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\csi.rsp
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Console.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.exe
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\vbc.rsp
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.FileGeneration.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.Interfaces.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\EPPlus.System.Drawing.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Memory.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Numerics.Vectors.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\System.Buffers.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\ABS.FileGeneration.pdb
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.AssemblyReference.cache
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.csproj.Up2Date
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.dll
+C:\Users\nisha\OneDrive\Documents\Shourya\DOTNET SAMPLE PROJECT _ Vidya_Updated\DOTNET SAMPLE PROJECT\ABS.WebApp\ABS.WebApp\obj\Debug\ABS.WebApp.pdb
